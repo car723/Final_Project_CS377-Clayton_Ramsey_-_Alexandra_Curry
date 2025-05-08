@@ -6,12 +6,6 @@
 
 A comprehensive Android application for tracking, managing, and visualizing Final Fantasy XIV quests and seasonal events. This app allows players to keep track of their in-game progression, monitor time spent on quests, and stay updated on seasonal events.
 
-<p align="center">
-  <img src="screenshots/dashboard.png" width="200" alt="Dashboard View"/>
-  <img src="screenshots/quest_list.png" width="200" alt="Quest List"/>
-  <img src="screenshots/event_detail.png" width="200" alt="Event Detail"/>
-</p>
-
 ## Features
 
 ### Quest Management
